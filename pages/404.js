@@ -13,6 +13,7 @@ const ErrorPage = () => {
             router.push("/");
         }, 3000)
     }, []);
+    
   return (
     <div>
          <nav>
