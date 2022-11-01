@@ -1,11 +1,13 @@
 import NavBar from "../components/NavBar";
 
-const index = () => {
+const about = () => {
   return (
     <>
     <NavBar />
+    <div>about</div>
     </>
+
   )
 }
 
-export default index;
+export default about

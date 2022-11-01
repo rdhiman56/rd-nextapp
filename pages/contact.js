@@ -1,11 +1,12 @@
 import NavBar from "../components/NavBar";
 
-const index = () => {
+const contact = () => {
   return (
     <>
     <NavBar />
+     <div>contact</div>
     </>
   )
 }
 
-export default index;
+export default contact
